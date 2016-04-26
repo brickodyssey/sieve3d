@@ -14,4 +14,4 @@ Once this is done, edit the script to change the `hole_diam` and the `sep` param
 python generate.py
 ```
 
-Then use OpenSCAD (for example, other programs will work as well) to convert this to a stl suitable for printing. Alternatively, you can download the stl directly from http://www.thingiverse.com/brickodyssey/designs
+Then use OpenSCAD (for example, other programs will work as well) to convert this to a stl suitable for printing. Alternatively, you can download the stl directly from https://www.thingiverse.com/thing:1396351
