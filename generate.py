@@ -6,7 +6,11 @@ from solid.utils import *
 
 # holes diameter
 hole_diam = 18
-# distance between holes
+# distance between holes centers, in hole diameter unit (a value of 1 would have
+# the holes touching). Some values that work well
+# 18 mm : 1.25
+# 14 mm : 1.23
+# 10 mm : 1.28
 sep = 1.25
 
 # other parameters that will probably not change
